@@ -6,8 +6,9 @@ node_js:
   - 0.12
   - 4.2.3  
       
-env:
-  - env=test1
+#env:
+ # - env=test1
+
 
     
 build:      
